@@ -83,8 +83,10 @@
 - For any issues or queries, feel free to reach out:
 
   -- LinkedIn: https://linkedin.com/in/prajwal-ghotkar-9618272a5
+
   -- Instagram: https://instagram.com/https://www.instagram.com/invites/contact/?igsh=17hkb01x0fkpr&utm_content=nad16fs
-  -- Phone: 8552860188
+
+   -- Phone: 8552860188
 
 🙋‍♂️ 👨‍💻 Developed by Prajwal Ghotkar 
 
