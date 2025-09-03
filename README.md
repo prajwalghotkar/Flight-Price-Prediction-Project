@@ -44,7 +44,7 @@
 
 ###### Step 6) Copy this URL and open in the Browser
 ![Screenshot 2025-02-06 162912](https://github.com/user-attachments/assets/f6a2d4bd-21b4-4296-bef2-5de1e82dff47)
-![Screenshot 2025-02-06 163049](https://github.com/user-attachments/assets/49baccf1-fc93-4402-9cde-461f577465ff)
+<img width="1920" height="960" alt="flight" src="https://github.com/user-attachments/assets/2d855fd3-4b22-4f8b-b234-823ba39a5bbb" />
 ---
 
 ##### Usage
